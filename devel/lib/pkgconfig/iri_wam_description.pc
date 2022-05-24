@@ -1,0 +1,8 @@
+prefix=/home/thib/catkin_ws/devel
+
+Name: iri_wam_description
+Description: Description of iri_wam_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: xacro

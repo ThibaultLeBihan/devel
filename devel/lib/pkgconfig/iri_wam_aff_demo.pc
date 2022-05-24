@@ -1,0 +1,8 @@
+prefix=/home/thib/catkin_ws/devel
+
+Name: iri_wam_aff_demo
+Description: Description of iri_wam_aff_demo
+Version: 2.0.0
+Cflags: 
+Libs: -L${prefix}/lib -liri_wam_aff_demo
+Requires: actionlib trajectory_msgs iri_wam_reproduce_trajectory roscpp roslib
